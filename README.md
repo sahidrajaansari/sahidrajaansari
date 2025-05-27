@@ -1,37 +1,173 @@
-<h1 align="center">Hi 👋, I'm Sahid Raja Ansari</h1>
-<h3 align="center">Software Engineer | AI Enthusiast | Web Developer</h3>
+# Hi there! 👋 I'm Sahid Raja Ansari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidrajaansari&label=Profile%20views&color=0e75b6&style=flat" alt="sahidrajaansari" /> </p>
+## 🚀 Software Engineer | Backend Specialist | Full-Stack Developer
 
-- 🔭 I’m currently working on [SummifyAI - An Automatic Text Summarizer](https://github.com/sahidrajaansari/Summifyai-an-automatic-text-summarizer)
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=firefox)](https://github.com/sahidrajaansari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahidrajaansari)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sahidrajaansari7@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=document)](https://drive.google.com/file/d/14dov4AsHNP4P3U0orMzdi-r1rxDTe6IA/view?usp=sharing)
 
-- 🌱 I’m currently learning **Next.js, Advanced Machine Learning Algorithms**
+<img src="https://komarev.com/ghpvc/?username=sahidrajaansari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-- 👯 I’m looking to collaborate on [AI Resume Builder](https://github.com/sahidrajaansari/Ai-Resume-Builder)
+</div>
 
-- 🤝 I’m looking for help with [AI Resume Builder](https://github.com/sahidrajaansari/Ai-Resume-Builder)
+---
 
-- 💬 Ask me about **React.js, Node.js, C++**
+## 💼 About Me
 
-- 📫 How to reach me **sahidrajaansari7@gmail.com**
+**Currently:** Software Engineer passionate about building scalable solutions  
+**Background:** Computer Engineering Graduate from Aligarh Muslim University  
+**Focus:** Backend systems, microservices architecture, and modern web technologies  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14dov4AsHNP4P3U0orMzdi-r1rxDTe6IA/view?usp=sharing](https://drive.google.com/file/d/14dov4AsHNP4P3U0orMzdi-r1rxDTe6IA/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I love solving puzzles and have completed over 500 coding challenges on LeetCode and GeeksforGeeks.**
+## 🎯 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahidrajaansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahidrajaansari" height="30" width="40" /></a>
-<a href="https://instagram.com/_sahid_raja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sahid_raja_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahidraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahidraja7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sahidrajaansari7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sahidrajaansari7/" height="30" width="40" /></a>
-</p>
+```go
+type Developer struct {
+    Role           string
+    Focus          []string
+    Interests      []string
+    Passion        string
+}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+me := Developer{
+    Role:        "Software Engineer",
+    Focus:       []string{"Backend Development", "System Design", "Full-Stack Solutions"},
+    Interests:   []string{"AI/ML", "Open Source", "Problem Solving"},
+    Passion:     "Creating efficient, scalable software that makes a difference",
+}
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahidrajaansari&show_icons=true&locale=en&layout=compact" alt="sahidrajaansari" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahidrajaansari&show_icons=true&locale=en" alt="sahidrajaansari" /></p>
+## 🛠️ Tech Arsenal
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahidrajaansari&" alt="sahidrajaansari" /></p>
+### **Languages**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### **Tools & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [AI Resume Builder](https://github.com/sahidrajaansari/Ai-Resume-Builder)
+**Tech Stack:** React.js, Node.js, MongoDB, Redis, Docker, Gemini API
+
+Transform the way resumes are created with AI-powered personalization
+- 🎯 **Smart Content Generation** using advanced AI to create tailored resume content
+- 🔐 **Secure User Management** with JWT authentication and Redis caching
+- 🐳 **Production Ready** containerized architecture with Docker
+- ⚡ **Optimized Performance** for seamless user experience
+
+### 📝 [SummifyAI - Text Summarizer](https://github.com/sahidrajaansari/Summifyai-an-automatic-text-summarizer)
+**Tech Stack:** Python, React.js, FastAPI, MongoDB, Pegasus Model
+
+Intelligent text summarization powered by machine learning
+- 🧠 **Custom ML Model** fine-tuned for optimal summarization accuracy
+- 🎨 **Modern Interface** built with React for intuitive user interaction
+- 🔒 **Enterprise Security** with robust authentication systems
+- 🚀 **High Performance** API backend built with FastAPI
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- **Advanced System Design** patterns and architectures
+- **Cloud Technologies** and distributed systems
+- **Machine Learning** applications in software engineering
+- **Next.js** for modern full-stack development
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahidrajaansari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidrajaansari&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahidrajaansari&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🎯 Fun Facts & Achievements
+
+```yaml
+coding_journey:
+  challenges_solved: "500+ on LeetCode & GeeksforGeeks"
+  favorite_language: "Go for backend, JavaScript for versatility"
+  problem_solving: "Love tackling complex algorithmic challenges"
+  
+interests:
+  - "Building scalable web applications"
+  - "Exploring AI/ML integration in software"
+  - "Contributing to open source projects"
+  - "Optimizing system performance"
+  
+goals:
+  - "Contributing to impactful open source projects"
+  - "Building solutions that scale globally"
+  - "Mentoring aspiring developers"
+```
+
+---
+
+## 🌟 What Drives Me
+
+- 💡 **Innovation:** Always exploring new technologies and methodologies
+- 🎯 **Quality:** Writing clean, maintainable, and efficient code
+- 🤝 **Collaboration:** Believe in the power of teamwork and knowledge sharing
+- 📈 **Growth:** Constantly learning and adapting to new challenges
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+**"Passionate about creating software that solves real-world problems"**
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether it's collaborating on open source, building something amazing together, or just having a chat about technology!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahidrajaansari-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahidrajaansari)
+[![Email](https://img.shields.io/badge/Email-sahidrajaansari7@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sahidrajaansari7@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sahidraja7-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/sahidraja7)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/sahidrajaansari7/)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/sahidrajaansari">sahidrajaansari</a> - Let's build something amazing together!</i>
+</div>
